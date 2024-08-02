@@ -38,9 +38,3 @@ When I'm not coding, you can find me:
 
 ## 📫 Let's Connect
 - Email: yoshida122121@gmail.com
-
----
-
-⚡ Fun fact: I have a heavy vehicle driver's license!
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuki0724&show_icons=true&theme=radical)
