@@ -25,3 +25,4 @@ Computer Science student at Shu-Te University, passionate about full-stack devel
 Email: yoshida122121@gmail.com
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuki0724&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuki0724&layout=donut&theme=radical)
