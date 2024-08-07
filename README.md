@@ -1,16 +1,17 @@
 # 👋 Hello, I'm Yoshida Ryuki
 
 ## 🎓 About Me
-Computer Science student at Shu-Te University, passionate about full-stack development and AI.
+Computer Science student at Shu-Te University, passionate about full-stack development and Flutter App.
 
 ## 💻 Tech Stack
-- Languages: PHP, JavaScript, Python, C#, Swift
-- Frameworks: Laravel, Vue.js, Bootstrap
-- Tools: Git, MySQL, AWS EC2
+- Languages  : PHP, JavaScript, Python, C#, Swift, Dart
+- Frameworks : Laravel, CodeIgniter 4, Vue.js, Flutter
+- Database   : MySQL, SQL Server
+- Cloud      : AWS EC2
 
 ## 🚀 Current Focus
 - Interning at a tech company
-- Improving web development and AI skills
+- Improving web development, Flutter App and AI skills
 - Exploring TensorFlow, OpenCV, NLP, and LLM
 
 ## 🎯 Key Projects
@@ -18,6 +19,7 @@ Computer Science student at Shu-Te University, passionate about full-stack devel
 - Python-based AI applications and Line Bot APIs
 - Windows applications (C#)
 - iOS app development (Swift)
+- Flutter App
 
 ## 📫 Contact
 Email: yoshida122121@gmail.com
