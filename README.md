@@ -7,7 +7,7 @@ Computer Science student at Shu-Te University, passionate about full-stack devel
 - Languages  : PHP, JavaScript, Python, C#, Swift, Dart
 - Frameworks : Laravel, CodeIgniter 4, Vue.js, Flutter
 - Database   : MySQL, SQL Server
-- Cloud      : AWS EC2
+- Cloud      : AWS Ec2
 
 ## 🚀 Current Focus
 - Interning at a tech company
@@ -18,7 +18,7 @@ Computer Science student at Shu-Te University, passionate about full-stack devel
 - Full Stack Web Development
 - Python-based AI applications and Line Bot APIs
 - Windows applications (C#)
-- iOS app development (Swift)
+- iOS app development (SwiftUI)
 - Flutter App
 
 ## 📫 Contact
