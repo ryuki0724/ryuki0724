@@ -5,7 +5,7 @@ Computer Science student at Shu-Te University, passionate about full-stack devel
 
 ## 💻 Tech Stack
 - Languages  : PHP, JavaScript, Python, C#, Swift, Dart
-- Frameworks : Laravel, CodeIgniter 4, Vue.js, Flutter
+- Frameworks : Laravel, Flutter
 - Database   : MySQL, SQL Server
 - Cloud      : AWS Ec2
 
