@@ -1,28 +1,55 @@
-# 👋 Hello, I'm Yoshida Ryuki
+<div align="center">
 
-## 🎓 About Me
-Computer Science student at Shu-Te University, passionate about full-stack development and Flutter App.
+# Hi, I'm Yoshida Ryuki 👋
 
-## 💻 Tech Stack
-- Languages  : PHP, JavaScript, Python, C#, Swift, Dart
-- Frameworks : Laravel, Flutter
-- Database   : MySQL, SQL Server
-- Cloud      : AWS Ec2
+**Software Engineer | Web & Mobile Developer**
 
-## 🚀 Current Focus
-- Interning at a tech company
-- Improving web development, Flutter App and AI skills
-- Exploring TensorFlow, OpenCV, NLP, and LLM
+[![Email](https://img.shields.io/badge/Email-yoshida122121%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yoshida122121@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ryuki0724-181717?style=flat-square&logo=github)](https://github.com/ryuki0724)
 
-## 🎯 Key Projects
-- Full Stack Web Development
-- Python-based AI applications and Line Bot APIs
-- Windows applications (C#)
-- iOS app development (SwiftUI)
-- Flutter App
+</div>
 
-## 📫 Contact
-Email: yoshida122121@gmail.com
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuki0724&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuki0724&layout=donut&theme=radical)
+## About Me
+
+- 💼 Software Engineer specializing in **Web & Mobile Application Development**
+- 🔭 Building full-stack web apps with **Laravel** and cross-platform mobile apps with **Flutter**
+- 🌱 Exploring **Go**, **AI/LLM integration**, and **real-time WebSocket systems**
+- 📫 Reach me at **yoshida122121@gmail.com**
+
+## Tech Stack
+
+**Languages**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+**Frameworks & Tools**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)
+
+**Database & Cloud**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuki0724&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuki0724&layout=donut&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryuki0724&theme=tokyonight&hide_border=true)
+
+</div>
