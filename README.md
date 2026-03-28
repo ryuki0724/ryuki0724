@@ -47,9 +47,7 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuki0724&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuki0724&layout=donut&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryuki0724&theme=tokyonight&hide_border=true)
+![GitHub stats](./profile/stats.svg)
+![Top Langs](./profile/top-langs.svg)
 
 </div>
