@@ -24,8 +24,8 @@
 name:     Yoshida Ryuki
 role:     Software Engineer (Web & Mobile)
 building: full-stack web apps · cross-platform mobile apps
-learning: Go · AI/LLM integration · real-time WebSocket systems
-ask-me:   Laravel · Flutter · API design
+learning: how to become a billionaire 💰 (still figuring out how)
+ask-me:   anything — I'll Claude it with confidence 🤖
 contact:  yoshida122121@gmail.com
 ```
 
@@ -35,28 +35,15 @@ contact:  yoshida122121@gmail.com
 
 ## Tech Stack
 
-**Languages**
+<div align="center">
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+<img src="https://skillicons.dev/icons?i=php,laravel,vue,flutter,dart,go,js,py,swift,mysql,firebase,docker,aws&perline=7&theme=dark" alt="Tech stack" />
 
-**Frameworks & Tools**
+<br />
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white)
 
-**Database & Cloud**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+</div>
 
 ## GitHub Stats
 
@@ -64,6 +51,20 @@ contact:  yoshida122121@gmail.com
 
 <img height="170" src="./profile/stats.svg" alt="GitHub stats" />
 <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
+
+<!--
+  貪食蛇貢獻動畫 (snake animation)
+  需先在 .github/workflows/grs.yml 加入 snake 產生步驟（見對話中提供的片段），
+  workflow 跑過一次、profile/snake.svg 與 snake-dark.svg 產生後，
+  取消下面這段註解即可啟用（會依系統深淺色自動切換）：
+
+  <br /><br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg" />
+    <img alt="Contribution snake animation" src="./profile/snake.svg" />
+  </picture>
+-->
 
 </div>
 
