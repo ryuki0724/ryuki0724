@@ -41,18 +41,13 @@ contact:  yoshida122121@gmail.com
 
 <br />
 
-![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white)
+<img src="https://cdn.simpleicons.org/livewire/FB70A9" alt="Livewire" width="48" height="48" />
 
 </div>
 
-## GitHub Stats
+## Contribution Graph
 
 <div align="center">
-
-<img height="170" src="./profile/stats.svg" alt="GitHub stats" />
-<img height="170" src="./profile/top-langs.svg" alt="Top languages" />
-
-<br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
