@@ -52,19 +52,13 @@ contact:  yoshida122121@gmail.com
 <img height="170" src="./profile/stats.svg" alt="GitHub stats" />
 <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
 
-<!--
-  貪食蛇貢獻動畫 (snake animation)
-  需先在 .github/workflows/grs.yml 加入 snake 產生步驟（見對話中提供的片段），
-  workflow 跑過一次、profile/snake.svg 與 snake-dark.svg 產生後，
-  取消下面這段註解即可啟用（會依系統深淺色自動切換）：
+<br /><br />
 
-  <br /><br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg" />
-    <img alt="Contribution snake animation" src="./profile/snake.svg" />
-  </picture>
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg" />
+  <img alt="Contribution snake animation" src="./profile/snake.svg" />
+</picture>
 
 </div>
 
